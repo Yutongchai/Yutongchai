@@ -22,7 +22,7 @@ Connect with me 🤝:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/yyutongg__?igshid=YmMyMTA2M2Y=">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
 
