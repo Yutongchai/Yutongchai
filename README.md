@@ -6,9 +6,10 @@
     An aspiring <b>Data analyst</b>&nbsp; <b>and Competitive Programmar</b>&nbsp;
     <br>
     
-<h4 style="align:center">My Personal PortFolio<h4>
+<h4>My Personal PortFolio<h4>
   <a href="https://yutongchai.github.io/">Click Here</a>
   <br>
+  
  ### ✨ About Me ✨
 - 🌍 Future data engineer who loves to make impact
 - 👨‍💻 Data Engineering student at University of Technology Malaysia
