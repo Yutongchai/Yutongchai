@@ -7,11 +7,6 @@
   </em>
 </p>
 
-<!-- 👤 Personal Photo -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/54da6ec7-7171-4fc8-89b2-11698361a922" alt="Chai Yu Tong" width="200px" style="border-radius: 50%; border: 2px solid #ccc;" />
-</p>
-
 ---
 
 ### ✨ About Me
