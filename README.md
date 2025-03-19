@@ -67,9 +67,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yutongchai&show_icons=true&theme=buefy&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yutongchai&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yutongchai&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Yutongchai&locale=en&mode=weekly&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+<br/>
