@@ -1,70 +1,119 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Chai Yu Tong</h1>
-
+<!-- Animated wave header -->
 <p align="center">
-  <em>
-    I'm <strong>Chai Yu Tong</strong>, a third-year <strong>Data Engineering</strong> undergraduate from <strong>University of Technology Malaysia</strong>. <br>
-    A passionate <strong>Data Analyst</strong> in the making and a budding <strong>Competitive Programmer</strong>.
-  </em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chai%20Yu%20Tong&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Competitive%20Programmer&descSize=16&descAlignY=60" width="100%" alt="header"/>
 </p>
 
----
-
-### ✨ About Me
-- 🌍 Aspiring data engineer who loves creating impact through data
-- 👨‍💻 Studying Data Engineering at University of Technology Malaysia
-- 🧶 A passionate crocheter who enjoys crafting during leisure
-
----
-
-### ⚡ Languages and Tools
-
-#### 📊 Data Science
+<!-- Typing animation -->
 <p align="center">
-  <a href="https://numpy.org/" target="_blank"><img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="NumPy" width="40" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40" /></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" /></a>
-</p>
-
-#### 💻 Web Development
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/></a>
-</p>
-
-#### ☁️ Cloud Computing
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60"/></a>
-</p>
-
-#### 🔤 Programming Languages
-<p align="center">
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-640x400.jpg" alt="Java" width="50"/></a>
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/yu-tong-chai-073b131a7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/yyutongg__?igshid=YmMyMTA2M2Y=" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://github.com/Yutongchai">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi+there!+%F0%9F%91%8B+I'm+Yu+Tong;UTM+Data+Engineering+graduate+%F0%9F%8E%93;I+turn+raw+data+into+real+impact+%F0%9F%93%8A;I+build+things+with+Python+%26+SQL+%F0%9F%90%8D;Crocheter+by+night+%F0%9F%A7%B6" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Graduate-University_of_Technology_Malaysia-0b7285?style=for-the-badge" alt="UTM"/>
+  <img src="https://img.shields.io/badge/Focus-Data_Engineering-1c7ed6?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_work-2f9e44?style=for-the-badge" alt="Open to work"/>
+</p>
+
 ---
 
-### 📊 GitHub Stats
+## ✨ About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yutongchai&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Yutongchai&locale=en&mode=weekly&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-<br/>
+```python
+class YuTong:
+    role      = "Data Engineer / Data Analyst"
+    education = "B.Sc. Data Engineering, Universiti Teknologi Malaysia (graduated)"
+    loves     = ["data pipelines", "analytics", "competitive programming", "crochet 🧶"]
+    building  = "apps that make learning languages easier"
+
+    def goal(self):
+        return "Create impact through data"
+```
+
+- 🌍 Data engineer who loves creating impact through data
+- 🎓 Graduated from Universiti Teknologi Malaysia, Data Engineering
+- 🚀 Shipped several projects since graduating, including a **language learning app**
+- 🧶 Passionate crocheter who enjoys crafting in my spare time
+
+---
+
+## 🛠️ Skills & Tools
+
+<!--
+  TODO: replace / extend this list with the stack from your newer projects
+  (framework, database, cloud services, etc.). Icon ids: https://skillicons.dev
+-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,php,mysql,aws,git,github&perline=11" alt="skills"/>
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>📊 Data Science</b></td>
+    <td align="center"><b>💻 Web</b></td>
+    <td align="center"><b>☁️ Cloud</b></td>
+    <td align="center"><b>🔤 Languages</b></td>
+  </tr>
+  <tr>
+    <td align="center">NumPy · Pandas<br>Matplotlib · Scikit-learn</td>
+    <td align="center">HTML5 · CSS3 · JavaScript<br>PHP · MySQL</td>
+    <td align="center">AWS</td>
+    <td align="center">Python · C++ · Java</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+<!-- TODO: add your real project names, one-line descriptions and repo links -->
+
+| Project | What it does | Tech |
+| :-- | :-- | :-- |
+| 🗣️ **Language Learning App** | Helps users learn a new language through interactive practice | _add stack here_ |
+| _your next project_ | _short description_ | _tech_ |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yutongchai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yutongchai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yutongchai&theme=tokyonight&hide_border=true&border_radius=10" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yutongchai&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph"/>
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yutongchai/Yutongchai/output/github-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/Yutongchai/Yutongchai/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yu-tong-chai-073b131a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/yyutongg__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yutongchai&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
