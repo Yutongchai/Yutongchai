@@ -1,126 +1,172 @@
-<!-- Animated wave header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chai%20Yu%20Tong&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Competitive%20Programmer&descSize=16&descAlignY=60" width="100%" alt="header"/>
-</p>
+ <!-- ============================================ -->
+<!--                 HERO HEADER                 -->
+<!-- ============================================ -->
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/Yutongchai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi+there!+%F0%9F%91%8B+I'm+Yu+Tong;UTM+Data+Engineering+graduate+%F0%9F%8E%93;I+turn+raw+data+into+real+impact+%F0%9F%93%8A;I+build+things+with+Python+%26+SQL+%F0%9F%90%8D;Crocheter+by+night+%F0%9F%A7%B6" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Graduate-University_of_Technology_Malaysia-0b7285?style=for-the-badge" alt="UTM"/>
-  <img src="https://img.shields.io/badge/Focus-Data_Engineering-1c7ed6?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_work-2f9e44?style=for-the-badge" alt="Open to work"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Chai%20Yu%20Tong&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Analyst&descSize=16&descAlignY=60" width="100%" alt="Yu Tong profile header"/>
 
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2c5364,100:0f2027&height=70&section=header&text=About%20Me&fontSize=26&fontColor=7fd8ff&animation=twinkling&fontAlignY=50" alt="About%20Me"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Yu+Tong+%F0%9F%91%8B;Data+Engineering+Graduate+%F0%9F%8E%93;Building+with+Data+%26+Code+%F0%9F%92%BB;Turning+Ideas+Into+Real-World+Solutions+%F0%9F%9A%80;Crocheter+by+Night+%F0%9F%A7%B6" alt="Typing animation"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/yu-tong-chai-073b131a7">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Yutongchai">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a Data Engineering graduate from **Universiti Teknologi Malaysia (UTM)** with an interest in building data-driven solutions and software applications.
+
+I enjoy working across the data lifecycle — from collecting and processing raw data to transforming it into meaningful insights and interactive applications.
+
+- 🎓 B.Sc. in Data Engineering, Universiti Teknologi Malaysia
+- 📊 Interested in Data Engineering, Data Analytics & Business Intelligence
+- 💻 Exploring full-stack development and application engineering
+- 🚀 Building practical applications that solve real-world problems
+- 🧶 Outside of tech: crocheting, language learning & competitive programming
 
 ```python
 class YuTong:
-    role      = "Data Engineer / Data Analyst"
-    education = "B.Sc. Data Engineering, Universiti Teknologi Malaysia (graduated)"
-    loves     = ["data pipelines", "analytics", "competitive programming", "crochet 🧶"]
-    building  = "apps that make learning languages easier"
+    role = "Data Engineer & Software Developer"
+    education = "Data Engineering @ UTM"
 
-    def goal(self):
-        return "Create impact through data"
+    interests = [
+        "Data Pipelines",
+        "Data Visualization",
+        "Full-Stack Development",
+        "Problem Solving"
+    ]
+
+    currently_building = "Things that make an impact"
+
+    fun_fact = "I crochet when I'm not debugging 🧶"
 ```
 
-- 🌍 Data engineer who loves creating impact through data
-- 🎓 Graduated from Universiti Teknologi Malaysia, Data Engineering
-- 🚀 Shipped several projects since graduating, including a **language learning app**
-- 🧶 Passionate crocheter who enjoys crafting in my spare time
+---
 
+## Tech Stack & Tools
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2c5364,100:0f2027&height=70&section=header&text=Skills%20%26%20Tools&fontSize=26&fontColor=7fd8ff&animation=twinkling&fontAlignY=50" alt="Skills%20%26%20Tools"/>
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,php" alt="Programming languages"/>
 </p>
 
-<!--
-  TODO: replace / extend this list with the stack from your newer projects
-  (framework, database, cloud services, etc.). Icon ids: https://skillicons.dev
--->
+**Data Engineering & Analytics**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,php,mysql,aws,git,github&perline=11" alt="skills"/>
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws" alt="Data technologies"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><b>📊 Data Science</b></td>
-    <td align="center"><b>💻 Web</b></td>
-    <td align="center"><b>☁️ Cloud</b></td>
-    <td align="center"><b>🔤 Languages</b></td>
-  </tr>
-  <tr>
-    <td align="center">NumPy · Pandas<br>Matplotlib · Scikit-learn</td>
-    <td align="center">HTML5 · CSS3 · JavaScript<br>PHP · MySQL</td>
-    <td align="center">AWS</td>
-    <td align="center">Python · C++ · Java</td>
-  </tr>
-</table>
+**Web Development & Tools**
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2c5364,100:0f2027&height=70&section=header&text=Projects&fontSize=26&fontColor=7fd8ff&animation=twinkling&fontAlignY=50" alt="Projects"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,git,github,vscode" alt="Development tools"/>
 </p>
 
-<!-- TODO: add your real project names, one-line descriptions and repo links -->
+---
 
-| Project | What it does | Tech |
-| :-- | :-- | :-- |
-| 🗣️ **Language Learning App** | Helps users learn a new language through interactive practice | _add stack here_ |
-| _your next project_ | _short description_ | _tech_ |
+## Featured Projects
 
+### 🗣️ Language Learning Application
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2c5364,100:0f2027&height=70&section=header&text=GitHub%20Stats&fontSize=26&fontColor=7fd8ff&animation=twinkling&fontAlignY=50" alt="GitHub%20Stats"/>
-</p>
+An interactive language learning application designed to make learning new languages more accessible through structured lessons, vocabulary building and practical exercises.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yutongchai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yutongchai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-</p>
+**Focus:** Language Learning · Application Development · User Experience
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yutongchai&theme=tokyonight&hide_border=true&border_radius=10" alt="streak"/>
-</p>
+**Tech Stack:** React · TypeScript · *[Add actual backend and database technologies]*
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yutongchai&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2c5364,100:0f2027&height=50&section=header&text=Contribution%20Snake&fontSize=20&fontColor=7fd8ff&animation=twinkling&fontAlignY=50" alt="Contribution%20Snake"/>
-</p>
+### 📊 Production Test Data Analytics Dashboard
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yutongchai/Yutongchai/output/github-snake-dark.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/Yutongchai/Yutongchai/output/github-snake.svg">
-  </picture>
-</p>
+A manufacturing analytics and monitoring solution designed to transform production test data into actionable insights.
 
+Features include:
+- Real-time production monitoring and WIP visibility
+- Production output and performance analysis
+- Test bay utilization and bottleneck monitoring
+- Interactive visualizations and reporting
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2c5364,100:0f2027&height=70&section=header&text=Connect%20With%20Me&fontSize=26&fontColor=7fd8ff&animation=twinkling&fontAlignY=50" alt="Connect%20With%20Me"/>
-</p>
+**Tech Stack:** React · TypeScript · Node.js · PostgreSQL · Microsoft SQL Server
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yu-tong-chai-073b131a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/yyutongg__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yutongchai&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-</p>
+### More Projects
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
+Explore my other repositories for experiments, university projects and coding challenges.
+
+[![Explore Repositories](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yutongchai?tab=repositories)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yutongchai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yutongchai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Yutongchai&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yutongchai&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Yutongchai/Yutongchai/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm always interested in connecting with people, exchanging ideas and exploring opportunities in data and software engineering.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yu-tong-chai-073b131a7">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Yutongchai">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://instagram.com/yyutongg__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Yutongchai&label=Profile%20Views&color=0e7490&style=flat-square" alt="Profile views"/>
+
+<br/><br/>
+
+*Building, learning, and making things better — one commit at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
