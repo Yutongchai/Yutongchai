@@ -37,7 +37,7 @@ chai-yu-tong / README.md
 
 USER       Yu Tong Chai
 ROLE       Data Engineer / Developer
-EDUCATION  B.Sc. Data Engineering
+EDUCATION  B.Comp.Sc. Data Engineering
            Universiti Teknologi Malaysia
 
 ------------------------------------------
